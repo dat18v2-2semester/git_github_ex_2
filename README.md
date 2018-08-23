@@ -2,6 +2,8 @@
 
 ## Handeling conflicts
 
+### Pull before Pushing
+
 **All group members** should be sure to have an updated version of you project.    
 
 **All group members** should then make a new file with a class in the project.    
