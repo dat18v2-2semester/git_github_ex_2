@@ -30,7 +30,9 @@ You will also get the same error as number 2 and 3 did.
 **All group members** should now create a method in the class and give it a unique name. member1Method(), member2Method() etc.    
 
 **Group member 1** should ```` Add, commit and push ```` the project to Github.    
-**Group member 2** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method. Then ````Add, commit and push ```` the project to Github.
+**Group member 2** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method.     
+This means that git have detected that there is no problem in having both methods in the file and therefore it automatically merge the differences.     
+Then ````Add, commit and push ```` the project to Github.
 
 **Group member 3** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method. Then ````Add, commit and push ```` the project to Github.
 
