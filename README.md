@@ -49,7 +49,13 @@ Then ````Add, commit and push ```` the project to Github.
 
 There will be an error saying that there is a merge conflict and that it should be handled.    
 **Group member 3** should now delete everything that he or she thinks should not be there or maybe keep everything if this is what he or she thinks is nice.  Remember that the non java signs ----------- HEAD ------------ ex. should be deleted no matter what. 
-Then ````Add, commit and push ````.   
+Then ````Add, commit and push ````.    
+
+**Group member 2** should ````pull````    
+Fix the conflict and ````Add, commit and push ````.    
+
+**Group member 1** should ````pull````    
+Fix the conflict and ````Add, commit and push ````. 
 
 
 
