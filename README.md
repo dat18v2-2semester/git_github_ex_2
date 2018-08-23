@@ -38,3 +38,21 @@ Then ````Add, commit and push ```` the project to Github.
 
 **Group member 4** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method. Then ````Add, commit and push ```` the project to Github.
 
+
+## Merging Conflicts
+**All group members** should be sure to have an updated version of you project.    
+
+**All group members** should now create an empty constructor in the RaceTrack.java file. In the constructor body all write a ````System.out.printline()```` printing out "hello from member1", "hello from member2" etc.    
+
+**Group member 4** should ````Add, commit and push ````    
+**Group member 3** should ````pull````    
+
+There will be an error saying that there is a merge conflict and that it should be handled.    
+**Group member 3** should now delete everything that he or she thinks should not be there or maybe keep everything if this is what he or she thinks that that is nice.  Remember that the non java signs ----------- HEAD ------------ ex. should be deleted no matter what. 
+Then ````Add, commit and push ````.   
+
+
+
+
+
+
