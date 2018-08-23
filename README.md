@@ -6,7 +6,7 @@
 
 **All group members** should then make a new file with a class in the project.    
 
-**Group member 1** should ```` Add, commit and push ```` the project to Github.
+**Group member 1** should ```` Add, commit and push ```` the project to Github.    
 **Group member 2** should ```` Add, commit and push ```` the project to Github.    
 
 You will also get an error.    
