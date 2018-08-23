@@ -1,2 +1,4 @@
-# git_github_ex_2
-Exercise 2 on Git &amp; Github
+# Exercise 2 on Git &amp; Github
+
+## Handeling merge conflicts
+
