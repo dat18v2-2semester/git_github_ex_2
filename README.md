@@ -23,4 +23,16 @@ You will also get the same error as number 2 did.
 You will also get the same error as number 2 and 3 did.    
 **Group member 4** should do what the error message in the console tells you to and then ```` Add, commit and push ```` the project to Github.
 
+## Fast forward merging
+**Group member 3** should create a java file and call it RaceTrack.java, and then  ```` Add, commit and push ```` the project to Github.
+**All group members** should then pull the project.    
+
+**All group members** should now create a method in the class and give it a unique name. member1Method(), member2Method() etc.    
+
+**Group member 1** should ```` Add, commit and push ```` the project to Github.    
+**Group member 2** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method. Then ````Add, commit and push ```` the project to Github.
+
+**Group member 3** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method. Then ````Add, commit and push ```` the project to Github.
+
+**Group member 4** should ````pull```` and then read the message in the console. It will tell you that it was merged using the Fast-Forward method. Then ````Add, commit and push ```` the project to Github.
 
